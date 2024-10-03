@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/a477fe95-a902-412e-8f09-dba170f0c98e
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Length-Converter-App.git
+   git clone https://github.com/CGreenP/Length-Converter-App.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
